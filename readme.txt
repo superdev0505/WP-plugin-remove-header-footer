@@ -9,35 +9,9 @@ Hide header or footer, Remove padding of header or footer.
 
 * Hide footer on pages
 
-* Add left sidebar to pages
-
-* Add right sidebar to pages
-
-* Add left and right sidebar to pages
-
-* Add sidebar below the content
-
-* Add sidebar above the content
-
-* And more…
-
-= Go Premium =
-
-[Download Premium Plugin](https://wppagetemplates.com/go-page-builder-wporg)
-
 * Use a Live Page Builder to create amazing templates
 
-* Design your own templates quickly
-
-* Create templates with multiple columns and content
-
-* Create pages with Sliders, Forms, Widgets, and more
-
-* Design and build your pages faster using a Drag and Drop builder
-
 * Create landing pages and Sales pages
-
-* Use the best Live Page Builder for WordPress
 
 * Hide header and footer for Landing Pages
 
@@ -46,27 +20,6 @@ Hide header or footer, Remove padding of header or footer.
 * Create full width posts
 
 * Create full width WooCommerce products
-
-[Download Premium Plugin](https://wppagetemplates.com/go-page-builder-wporg)
-
-== Installation ==
-
-= Automatic installation =
-
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
-
-
-
-In the search field type WP Page Templates and click Search Plugins. Once you’ve found our plugin by VegaCorp you can install it by simply clicking “Install Now”.
-
-
-
-= Manual installation =
-
-The manual installation method involves downloading our plugin and uploading it to your webserver via your favourite FTP application. The WordPress codex contains [instructions on how to do this here.](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation)
-
-
-
 
 
 == Frequently Asked Questions ==
