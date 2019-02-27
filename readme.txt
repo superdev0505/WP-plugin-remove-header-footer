@@ -1,25 +1,7 @@
 === WP Page Templates ===
-Contributors: vegacorp,josevega,greenjaymedia, freemius
 Tags: wp page templates, wordpress templates, custom templates, custom pages, woocommerce templates, 
-Tested up to: 5.0
-Stable tag: 1.1.3
-Requires at least: 3.6
-License: GPLv2
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create full width pages, hide header or footer, add left or right sidebars, add above or below content sidebars.
-
-== Description ==
-
-- Easily create custom page templates for any theme.
-
-- Do you want to use a WordPress theme that doesn´t have a full width page template? Add any template to your theme with WP Page Templates
-
-- Do you want to hide the header or footer on a specific page? WP Page Templates plugin makes it easy.
-
-- You can add a left and/or right sidebar.  You can even add above or below main content.
-
-[youtube https://www.youtube.com/watch?v=c2KBLNvQWzA]
+Hide header or footer, Remove padding of header or footer.
 
 = Features = 
 
@@ -93,7 +75,7 @@ The manual installation method involves downloading our plugin and uploading it 
 
 
 
-The free plugin works with pages only. The premium version works with all custom post types, including woocommerce.
+The free plugin works with pages, all custom post types, including woocommerce.
 
 
 
@@ -103,12 +85,4 @@ The free plugin works with pages only. The premium version works with all custom
 
 In that case our algorithm wasn´t able to find in your theme the header, footer, sidebars, or content element.  So you need to use the advanced settings and enter the elements css selector.
 
-If you think this plugin is not working as intended, please contact us so we can help.
-
-== Screenshots ==
-
-1. metabox
-
-== Changelog ==
-
-[See full changelog.](http://wppagetemplates.com/changelog/)
+If you think this plugin is not working as intended, please contact me so I can help.
